@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Start on 城市群生态基底核算与健康诊断</title>
-    <link>https://example.com/</link>
+    <link>/</link>
     <description>Recent content in Start on 城市群生态基底核算与健康诊断</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试</title>
-      <link>https://example.com/post/2021-08-10-test/</link>
+      <link>/post/2021-08-10-test/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2021-08-10-test/</guid>
+      <guid>/post/2021-08-10-test/</guid>
       <description>你好！世界！</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://example.com/post/2020-12-01-r-rmarkdown/</link>
+      <link>/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>/post/2020-12-01-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -29,56 +29,56 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Basic HTML Elements</title>
-      <link>https://example.com/post/basic-elements/</link>
+      <link>/post/basic-elements/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/basic-elements/</guid>
+      <guid>/post/basic-elements/</guid>
       <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://example.com/post/creating-a-new-theme/</link>
+      <link>/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/creating-a-new-theme/</guid>
+      <guid>/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>动态一体化评价与监管系统简介</title>
-      <link>https://example.com/methods/</link>
+      <link>/methods/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/methods/</guid>
+      <guid>/methods/</guid>
       <description>城市群复合生态系统动态监管平台 在城市群复合生态系统复杂性分析、信息采集、综合数据资源中心构建以及多层式生态基底核算与健康综合诊断研究的基础上，本课题将最终构建一个城市群生态系统动态监管平台。该平台将包含系统动态监测数据与资料，可支持聚类分析、相关分析、因子分析、判别分析、主成分分析和生命周期评估，分析城市群复合生态系统中典型生态过程及产业活动的时空演变规律，从而实现对系统多重复杂性的监测与评估。同时，针对城市群复合生态系统网络结构的多层次、多组分特征，该平台可借助模糊数学和多元随机分析，量化城市群生态系统协同演化过程的复杂性，并揭示其内在网络特征、演变机理及网络系统组分间的互动关系。此外，本课题将把Fuzzy C-Mean 聚类挖掘优化算法、基于改进式遗传算法的填充挖掘算法以及Apriori 算法等高维大数据挖掘技术纳入动态监管平台。基于大数据挖掘与处理，整合多元信息采集系统、综合数据资源中心、生态基底核算模块以及生态健康综合诊断模块的相关数据与资料。该平台将对数据资源进行主体化汇聚，提高数据资源的知识化分析能力，并由之建立大尺度城市群生态系统的一体化动态监管平台，以强化国土生态空间管控，为完善珠三角城市群生态风险预警监控机制提供支持。</description>
     </item>
     
     <item>
       <title>综合数据资源中心简介</title>
-      <link>https://example.com/database/</link>
+      <link>/database/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/database/</guid>
+      <guid>/database/</guid>
       <description>社会-经济-生态-环境综合数据资源中心 本课题将在现有生态环境监测网络的基础上，结合移动巡检、分体箱式移动监控等动态监测技术，建立覆盖珠三角典型城市群的多元生态环境信息采集系统。该信息采集系统将对陆地生态站的气象要素、水文要素、土壤要素、植物要素、动物要素和微生物要素，以及水文生态站的水文气象要素、水质要素、底质要素、浮游植物要素、浮游动物要素、游泳动物要素、底栖生物要素和微生物要素开展调查与监测。该调查与观测网络将针对多层式城市群复合生态系统的组成结构而构建，从而为分析系统结构和功能以及系统中多组分之间的互动关系提供数据基础。此外，本课题还将通过文献查阅、社会调查、专家咨询等方式收集区域社会经济发展的相关数据，并通过开发实时数据平台、移动对象索引等数据库技术，整合生态监测数据与社会经济数据，构建城市群复合生态系统的社会-经济-生态-环境综合数据资源中心。</description>
     </item>
     
     <item>
       <title>课题简介</title>
-      <link>https://example.com/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>/about/</guid>
       <description>“城市群生态基底核算与健康诊断”课题简介 本课题对城市群复合生态系统进行解构，明确系统的生态因子、过程、功能及其相应的多层式复杂结构；结合多种移动监测技术，建立覆盖珠三角典型城市群的多元生态环境信息采集系统；通过文献查阅、社会调查、专家咨询等方式收集区域社会经济发展的相关数据，构建城市群复合生态系统的社会—经济—生态—环境综合数据资源中心；基于聚类分析、相关分析、主成分分析、生命周期评估，开发多种多层式城市群复合生态系统复杂性分析技术，剖析后城市群系统的内在时空演变规律及其间互动关系。在此基础上，基于逐步聚类分析、嫡理论、能值分析和物质量评价法，构建城市群生态系统综合核算系统。进而，通过引入模糊逻辑推理与蒙特卡洛随机分析，改进传统的简单权重相加法、消去与选择转换法、逼近理想解排序法、协同博弈论和偏好序列组织法，开发多个模糊随机动态多判据分析技术，并提出生态系统健康诊断与安全评估框架。最终，一整合多元信息采集系统、综合数据资源中心、生态基底核算技术以及生态健康综合诊断技术的相关数据及资料，构建城市群复合生态系统动态监管平台，为后期生态风险预测预警技术及城市生态修复技术的开发奠定基础。</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://example.com/post/goisforlovers/</link>
+      <link>/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/goisforlovers/</guid>
+      <guid>/post/goisforlovers/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
@@ -89,10 +89,10 @@ similarities in Go templates.&lt;/p&gt;</description>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://example.com/post/hugoisforlovers/</link>
+      <link>/post/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/hugoisforlovers/</guid>
+      <guid>/post/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
@@ -103,10 +103,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://example.com/post/migrate-from-jekyll/</link>
+      <link>/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/migrate-from-jekyll/</guid>
+      <guid>/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
