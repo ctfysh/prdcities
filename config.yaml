@@ -72,3 +72,9 @@ menu:
       name: 课题简介
       url: /about/
       weight: 4
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false

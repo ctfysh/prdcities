@@ -28,7 +28,7 @@ logic to be able to create a good static website. If you have used other
 template systems from different languages or frameworks you will find a lot of
 similarities in Go templates."><meta itemprop="datePublished" content="2014-04-02T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2014-04-02T00:00:00+00:00" />
-<meta itemprop="wordCount" content="1487">
+<meta itemprop="wordCount" content="1480">
 <meta itemprop="keywords" content="go,golang,templates,themes,development," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="(Hu)go Template Primer"/>
@@ -104,6 +104,13 @@ similarities in Go templates."/>
 </nav>
 
 
+
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 	<div class="container wrapper flex">
 		<div class="primary">
@@ -356,11 +363,11 @@ notoc: true
 <p>In your top-level configuration file (eg, <code>config.yaml</code>) you can define site
 parameters, which are values which will be available to you in chrome.</p>
 <p>For instance, you might declare:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">params</span>:
-  <span style="color:#f92672">CopyrightHTML</span>: <span style="color:#e6db74">&#34;Copyright &amp;#xA9; 2013 John Doe. All Rights Reserved.&#34;</span>
-  <span style="color:#f92672">TwitterUser</span>: <span style="color:#e6db74">&#34;spf13&#34;</span>
-  <span style="color:#f92672">SidebarRecentLimit</span>: <span style="color:#ae81ff">5</span>
-</code></pre></div><p>Within a footer layout, you might then declare a <code>&lt;footer&gt;</code> which is only
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="nt">params</span><span class="p">:</span><span class="w">
+</span><span class="w">  </span><span class="nt">CopyrightHTML</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;Copyright &amp;#xA9; 2013 John Doe. All Rights Reserved.&#34;</span><span class="w">
+</span><span class="w">  </span><span class="nt">TwitterUser</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;spf13&#34;</span><span class="w">
+</span><span class="w">  </span><span class="nt">SidebarRecentLimit</span><span class="p">:</span><span class="w"> </span><span class="m">5</span><span class="w">
+</span></code></pre></div><p>Within a footer layout, you might then declare a <code>&lt;footer&gt;</code> which is only
 provided if the <code>CopyrightHTML</code> parameter is provided, and if it is given,
 you would declare it to be HTML-safe, so that the HTML entity is not escaped
 again.  This would let you easily update just your top-level config file each
@@ -453,8 +460,13 @@ so, such as in this example:</p>
 			<span><a href="/imprint">Imprint and Privacy</a></span>
 		</div>
 		
-<div class="footer__copyright">Donate!</div>
-
+		<span id="busuanzi_container_site_pv">
+      本站访问量：<span id="busuanzi_value_site_pv"></span>次
+    </span>
+    
+    <span id="busuanzi_container_site_uv">
+      您是本站第 <span id="busuanzi_value_site_uv"></span> 位访问者
+    </span>
 	</div>
 </footer>
 
