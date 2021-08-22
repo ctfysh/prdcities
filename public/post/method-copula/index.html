@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Copula多元随机分析 - 城市群生态基底核算与健康诊断</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Copula多元随机分析" />
+<meta property="og:description" content="Copula是一种连接边缘分布和多变量联合分布的关联函数。用Copula函数描述并模拟多变量之间的依赖性结构，可灵活反映多元随机变量间的互动关系，为多元随机风险分析及不确定性分析奠定基础。本项目基于Copula多元随机分析，将Copula函数引入两阶段联合概率分析模型，开发了珠三角城市群能源管理技术和多元水文系统风险分析技术。剖析城市群系统的时空演变规律及其间互动关系。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/post/method-copula/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2014-04-02T00:00:00+00:00" />
+<meta property="article:modified_time" content="2014-04-02T00:00:00+00:00" />
+
+
+		<meta itemprop="name" content="Copula多元随机分析">
+<meta itemprop="description" content="Copula是一种连接边缘分布和多变量联合分布的关联函数。用Copula函数描述并模拟多变量之间的依赖性结构，可灵活反映多元随机变量间的互动关系，为多元随机风险分析及不确定性分析奠定基础。本项目基于Copula多元随机分析，将Copula函数引入两阶段联合概率分析模型，开发了珠三角城市群能源管理技术和多元水文系统风险分析技术。剖析城市群系统的时空演变规律及其间互动关系。"><meta itemprop="datePublished" content="2014-04-02T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2014-04-02T00:00:00+00:00" />
+<meta itemprop="wordCount" content="1">
+<meta itemprop="keywords" content="" />
+		<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Copula多元随机分析"/>
+<meta name="twitter:description" content="Copula是一种连接边缘分布和多变量联合分布的关联函数。用Copula函数描述并模拟多变量之间的依赖性结构，可灵活反映多元随机变量间的互动关系，为多元随机风险分析及不确定性分析奠定基础。本项目基于Copula多元随机分析，将Copula函数引入两阶段联合概率分析模型，开发了珠三角城市群能源管理技术和多元水文系统风险分析技术。剖析城市群系统的时空演变规律及其间互动关系。"/>
+
+
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	
+		
+</head>
+<body class="body">
+	<header class="header">
+	
+	<div class="logo logo--mixed">
+		<div class="container">
+			<a class="logo__link" href="/" title="城市群生态基底核算与健康诊断" rel="home">
+				<div class="logo__item logo__imagebox">
+						<img class="logo__img" src="/img/placeholder2.png">
+					</div><div class="logo__item logo__text">
+						<div class="logo__title">城市群生态基底核算与健康诊断</div>
+						<div class="logo__tagline">综合数据资源中心及动态一体化评价与监管系统</div>
+					</div>
+			</a>
+		</div>
+	</div>
+
+</header>
+
+<nav class="menu">
+	<div class="container">
+		<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+			<span class="menu__btn-title" tabindex="-1">菜单</span>
+		</button>
+		<ul class="menu__list">
+			<li class="menu__item">
+				<a class="menu__link" href="/">
+					
+					<span class="menu__text">首页</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/about/">
+					
+					<span class="menu__text">课题简介</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/database/">
+					
+					<span class="menu__text">数据库</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/methods/">
+					
+					<span class="menu__text">方法库</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/complex/">
+					
+					<span class="menu__text">复杂性分析</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/account/">
+					
+					<span class="menu__text">基底核算</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/diagnose/">
+					
+					<span class="menu__text">健康诊断</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/optimize/">
+					
+					<span class="menu__text">优化调控</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/alert/">
+					
+					<span class="menu__text">诊断预警</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/platform/">
+					
+					<span class="menu__text">监管平台</span>
+					
+				</a>
+			</li>
+		</ul>
+	</div>
+</nav>
+
+
+
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+	<div class="container wrapper flex">
+		<div class="primary">
+		
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Copula多元随机分析</h1>
+			<div class="post__meta meta"><div class="meta__item-author meta__item">
+	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2 0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class="meta__text">南京大学研究团队</span>
+</div>
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-04-02T00:00:00Z">02.04.2014</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/%E6%96%B9%E6%B3%95%E5%BA%93/" rel="category">方法库</a>
+	</span>
+</div></div>
+		</header><div class="content post__content clearfix">
+			<p>Copula是一种连接边缘分布和多变量联合分布的关联函数。用Copula函数描述并模拟多变量之间的依赖性结构，可灵活反映多元随机变量间的互动关系，为多元随机风险分析及不确定性分析奠定基础。本项目基于Copula多元随机分析，将Copula函数引入两阶段联合概率分析模型，开发了珠三角城市群能源管理技术和多元水文系统风险分析技术。剖析城市群系统的时空演变规律及其间互动关系。</p>
+<embed src="/post/methods/多元随机分析.pdf" type="application/pdf" width="100%" height=750>
+
+		</div>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="南京大学研究团队 avatar" src="/img/avatar.png" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">关于 南京大学研究团队</span>
+	</div>
+	<div class="authorbox__description">
+		南京大学研究团队致力于高分辨率时空数据库与动态可视化平台构建。
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/post/method-da/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;上一篇</span>
+			<p class="pager__title">判别分析</p>
+		</a>
+	</div>
+</nav>
+
+
+
+		</div>
+		
+	</div>
+	<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 南京大学研究团队
+		</div>
+		
+		<span id="busuanzi_container_site_pv">
+      本站访问量：<span id="busuanzi_value_site_pv"></span>次
+    </span>
+    
+    <span id="busuanzi_container_site_uv">
+      您是本站第 <span id="busuanzi_value_site_uv"></span> 位访问者
+    </span>
+	</div>
+</footer>
+
+	<script async defer src="/js/menu.js"></script>
+	
+	
+	
+</body>
+</html>

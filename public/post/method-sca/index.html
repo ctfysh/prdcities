@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>逐步聚类 - 城市群生态基底核算与健康诊断</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="逐步聚类" />
+<meta property="og:description" content="逐步聚类方法的基本原理是根据给定的标准，把一组样本分割成两类，或者把两组样本合并成一类，一步一步，直到将所有的样本进入相应的类之中。为了将含有n个样本的类分割成子类，根据Wilks似然率准则，如果分割点最佳，Wilks值应该最小。当Wilks值非常大时，则该类不能再分，必须被合并到上一级的类中。因此，分类和合并的标准由一系列根据Wilks准则进行的F检验构成。该方法能够有效的处理自变量和因变量之间复杂的非线性关系，以及处理连续及离散型随机变量。 首先，基于逐步聚类构建了城市群生态系统综合核算系统，开发了基于逐步聚类的珠三角城市群生态功能区划方案。该研究基于生态系统功能服务价值分析，打破原有的行政区域划分，对珠三角地区的47个区县进行生态功能评价与分区。其次，本研究构建基于SCA的降尺度降尺度模型，通过集合预报预估珠三角地区的主要气候指标例如降水，温度，并评估珠三角地区未来的体感温度及干旱变化趋势等。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/post/method-sca/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2014-04-02T00:00:00+00:00" />
+<meta property="article:modified_time" content="2014-04-02T00:00:00+00:00" />
+
+
+		<meta itemprop="name" content="逐步聚类">
+<meta itemprop="description" content="逐步聚类方法的基本原理是根据给定的标准，把一组样本分割成两类，或者把两组样本合并成一类，一步一步，直到将所有的样本进入相应的类之中。为了将含有n个样本的类分割成子类，根据Wilks似然率准则，如果分割点最佳，Wilks值应该最小。当Wilks值非常大时，则该类不能再分，必须被合并到上一级的类中。因此，分类和合并的标准由一系列根据Wilks准则进行的F检验构成。该方法能够有效的处理自变量和因变量之间复杂的非线性关系，以及处理连续及离散型随机变量。 首先，基于逐步聚类构建了城市群生态系统综合核算系统，开发了基于逐步聚类的珠三角城市群生态功能区划方案。该研究基于生态系统功能服务价值分析，打破原有的行政区域划分，对珠三角地区的47个区县进行生态功能评价与分区。其次，本研究构建基于SCA的降尺度降尺度模型，通过集合预报预估珠三角地区的主要气候指标例如降水，温度，并评估珠三角地区未来的体感温度及干旱变化趋势等。"><meta itemprop="datePublished" content="2014-04-02T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2014-04-02T00:00:00+00:00" />
+<meta itemprop="wordCount" content="2">
+<meta itemprop="keywords" content="" />
+		<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="逐步聚类"/>
+<meta name="twitter:description" content="逐步聚类方法的基本原理是根据给定的标准，把一组样本分割成两类，或者把两组样本合并成一类，一步一步，直到将所有的样本进入相应的类之中。为了将含有n个样本的类分割成子类，根据Wilks似然率准则，如果分割点最佳，Wilks值应该最小。当Wilks值非常大时，则该类不能再分，必须被合并到上一级的类中。因此，分类和合并的标准由一系列根据Wilks准则进行的F检验构成。该方法能够有效的处理自变量和因变量之间复杂的非线性关系，以及处理连续及离散型随机变量。 首先，基于逐步聚类构建了城市群生态系统综合核算系统，开发了基于逐步聚类的珠三角城市群生态功能区划方案。该研究基于生态系统功能服务价值分析，打破原有的行政区域划分，对珠三角地区的47个区县进行生态功能评价与分区。其次，本研究构建基于SCA的降尺度降尺度模型，通过集合预报预估珠三角地区的主要气候指标例如降水，温度，并评估珠三角地区未来的体感温度及干旱变化趋势等。"/>
+
+
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	
+		
+</head>
+<body class="body">
+	<header class="header">
+	
+	<div class="logo logo--mixed">
+		<div class="container">
+			<a class="logo__link" href="/" title="城市群生态基底核算与健康诊断" rel="home">
+				<div class="logo__item logo__imagebox">
+						<img class="logo__img" src="/img/placeholder2.png">
+					</div><div class="logo__item logo__text">
+						<div class="logo__title">城市群生态基底核算与健康诊断</div>
+						<div class="logo__tagline">综合数据资源中心及动态一体化评价与监管系统</div>
+					</div>
+			</a>
+		</div>
+	</div>
+
+</header>
+
+<nav class="menu">
+	<div class="container">
+		<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+			<span class="menu__btn-title" tabindex="-1">菜单</span>
+		</button>
+		<ul class="menu__list">
+			<li class="menu__item">
+				<a class="menu__link" href="/">
+					
+					<span class="menu__text">首页</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/about/">
+					
+					<span class="menu__text">课题简介</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/database/">
+					
+					<span class="menu__text">数据库</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/methods/">
+					
+					<span class="menu__text">方法库</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/complex/">
+					
+					<span class="menu__text">复杂性分析</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/account/">
+					
+					<span class="menu__text">基底核算</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/diagnose/">
+					
+					<span class="menu__text">健康诊断</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/optimize/">
+					
+					<span class="menu__text">优化调控</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/alert/">
+					
+					<span class="menu__text">诊断预警</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/platform/">
+					
+					<span class="menu__text">监管平台</span>
+					
+				</a>
+			</li>
+		</ul>
+	</div>
+</nav>
+
+
+
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+	<div class="container wrapper flex">
+		<div class="primary">
+		
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">逐步聚类</h1>
+			<div class="post__meta meta"><div class="meta__item-author meta__item">
+	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2 0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class="meta__text">南京大学研究团队</span>
+</div>
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-04-02T00:00:00Z">02.04.2014</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/%E6%96%B9%E6%B3%95%E5%BA%93/" rel="category">方法库</a>
+	</span>
+</div></div>
+		</header><div class="content post__content clearfix">
+			<p>逐步聚类方法的基本原理是根据给定的标准，把一组样本分割成两类，或者把两组样本合并成一类，一步一步，直到将所有的样本进入相应的类之中。为了将含有n个样本的类分割成子类，根据Wilks似然率准则，如果分割点最佳，Wilks值应该最小。当Wilks值非常大时，则该类不能再分，必须被合并到上一级的类中。因此，分类和合并的标准由一系列根据Wilks准则进行的F检验构成。该方法能够有效的处理自变量和因变量之间复杂的非线性关系，以及处理连续及离散型随机变量。
+首先，基于逐步聚类构建了城市群生态系统综合核算系统，开发了基于逐步聚类的珠三角城市群生态功能区划方案。该研究基于生态系统功能服务价值分析，打破原有的行政区域划分，对珠三角地区的47个区县进行生态功能评价与分区。其次，本研究构建基于SCA的降尺度降尺度模型，通过集合预报预估珠三角地区的主要气候指标例如降水，温度，并评估珠三角地区未来的体感温度及干旱变化趋势等。</p>
+<embed src="/post/methods/逐步聚类.pdf" type="application/pdf" width="100%" height=750>
+
+		</div>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="南京大学研究团队 avatar" src="/img/avatar.png" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">关于 南京大学研究团队</span>
+	</div>
+	<div class="authorbox__description">
+		南京大学研究团队致力于高分辨率时空数据库与动态可视化平台构建。
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/post/diagnose-energy/" rel="next">
+			<span class="pager__subtitle">下一篇&thinsp;»</span>
+			<p class="pager__title">能源代谢动态模拟诊断技术</p>
+		</a>
+	</div>
+</nav>
+
+
+
+		</div>
+		
+	</div>
+	<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 南京大学研究团队
+		</div>
+		
+		<span id="busuanzi_container_site_pv">
+      本站访问量：<span id="busuanzi_value_site_pv"></span>次
+    </span>
+    
+    <span id="busuanzi_container_site_uv">
+      您是本站第 <span id="busuanzi_value_site_uv"></span> 位访问者
+    </span>
+	</div>
+</footer>
+
+	<script async defer src="/js/menu.js"></script>
+	
+	
+	
+</body>
+</html>

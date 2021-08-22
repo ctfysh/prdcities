@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>珠海市可再生能-水资源系统规划 - 城市群生态基底核算与健康诊断</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="珠海市可再生能-水资源系统规划" />
+<meta property="og:description" content="本研究开发了一个区间混合整数分式规划模型用于珠海市可再生能源-水资源系统规划。通过考虑电厂水资源的消耗，引入机会约束规划方法，分析水资源利用约束在不同违约水平下对环境系统规划方案所产生的影响。考虑到可再生能源发电过程中耗水少得多，目标函数是优化可再生能源发电量与系统成本的比值，系在最大化单位成本的可再生能源发电量，以降低系统水耗，同时对水资源可用量设置了不同违约水平。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/post/optimize-zh/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2014-04-02T00:00:00+00:00" />
+<meta property="article:modified_time" content="2014-04-02T00:00:00+00:00" />
+
+
+		<meta itemprop="name" content="珠海市可再生能-水资源系统规划">
+<meta itemprop="description" content="本研究开发了一个区间混合整数分式规划模型用于珠海市可再生能源-水资源系统规划。通过考虑电厂水资源的消耗，引入机会约束规划方法，分析水资源利用约束在不同违约水平下对环境系统规划方案所产生的影响。考虑到可再生能源发电过程中耗水少得多，目标函数是优化可再生能源发电量与系统成本的比值，系在最大化单位成本的可再生能源发电量，以降低系统水耗，同时对水资源可用量设置了不同违约水平。"><meta itemprop="datePublished" content="2014-04-02T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2014-04-02T00:00:00+00:00" />
+<meta itemprop="wordCount" content="1">
+<meta itemprop="keywords" content="" />
+		<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="珠海市可再生能-水资源系统规划"/>
+<meta name="twitter:description" content="本研究开发了一个区间混合整数分式规划模型用于珠海市可再生能源-水资源系统规划。通过考虑电厂水资源的消耗，引入机会约束规划方法，分析水资源利用约束在不同违约水平下对环境系统规划方案所产生的影响。考虑到可再生能源发电过程中耗水少得多，目标函数是优化可再生能源发电量与系统成本的比值，系在最大化单位成本的可再生能源发电量，以降低系统水耗，同时对水资源可用量设置了不同违约水平。"/>
+
+
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	
+		
+</head>
+<body class="body">
+	<header class="header">
+	
+	<div class="logo logo--mixed">
+		<div class="container">
+			<a class="logo__link" href="/" title="城市群生态基底核算与健康诊断" rel="home">
+				<div class="logo__item logo__imagebox">
+						<img class="logo__img" src="/img/placeholder2.png">
+					</div><div class="logo__item logo__text">
+						<div class="logo__title">城市群生态基底核算与健康诊断</div>
+						<div class="logo__tagline">综合数据资源中心及动态一体化评价与监管系统</div>
+					</div>
+			</a>
+		</div>
+	</div>
+
+</header>
+
+<nav class="menu">
+	<div class="container">
+		<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+			<span class="menu__btn-title" tabindex="-1">菜单</span>
+		</button>
+		<ul class="menu__list">
+			<li class="menu__item">
+				<a class="menu__link" href="/">
+					
+					<span class="menu__text">首页</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/about/">
+					
+					<span class="menu__text">课题简介</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/database/">
+					
+					<span class="menu__text">数据库</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/methods/">
+					
+					<span class="menu__text">方法库</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/complex/">
+					
+					<span class="menu__text">复杂性分析</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/account/">
+					
+					<span class="menu__text">基底核算</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/diagnose/">
+					
+					<span class="menu__text">健康诊断</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/optimize/">
+					
+					<span class="menu__text">优化调控</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/alert/">
+					
+					<span class="menu__text">诊断预警</span>
+					
+				</a>
+			</li>
+			<li class="menu__item">
+				<a class="menu__link" href="/platform/">
+					
+					<span class="menu__text">监管平台</span>
+					
+				</a>
+			</li>
+		</ul>
+	</div>
+</nav>
+
+
+
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+	<div class="container wrapper flex">
+		<div class="primary">
+		
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">珠海市可再生能-水资源系统规划</h1>
+			<div class="post__meta meta"><div class="meta__item-author meta__item">
+	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2 0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class="meta__text">南京大学研究团队</span>
+</div>
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-04-02T00:00:00Z">02.04.2014</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/%E4%BC%98%E5%8C%96%E8%B0%83%E6%8E%A7/" rel="category">优化调控</a>
+	</span>
+</div></div>
+		</header><div class="content post__content clearfix">
+			<p>本研究开发了一个区间混合整数分式规划模型用于珠海市可再生能源-水资源系统规划。通过考虑电厂水资源的消耗，引入机会约束规划方法，分析水资源利用约束在不同违约水平下对环境系统规划方案所产生的影响。考虑到可再生能源发电过程中耗水少得多，目标函数是优化可再生能源发电量与系统成本的比值，系在最大化单位成本的可再生能源发电量，以降低系统水耗，同时对水资源可用量设置了不同违约水平。</p>
+<embed src="/post/optimize/2.3.4珠海市可再生能-水资源系统规划.pdf" type="application/pdf" width="100%" height=750>
+
+		</div>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="南京大学研究团队 avatar" src="/img/avatar.png" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">关于 南京大学研究团队</span>
+	</div>
+	<div class="authorbox__description">
+		南京大学研究团队致力于高分辨率时空数据库与动态可视化平台构建。
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/post/diagnose-food/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;上一篇</span>
+			<p class="pager__title">考虑具体类别的食物网络代谢模拟技术</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/post/complex-eneco/" rel="next">
+			<span class="pager__subtitle">下一篇&thinsp;»</span>
+			<p class="pager__title">珠三角能源-生态联动关系复杂性定量分析</p>
+		</a>
+	</div>
+</nav>
+
+
+
+		</div>
+		
+	</div>
+	<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 南京大学研究团队
+		</div>
+		
+		<span id="busuanzi_container_site_pv">
+      本站访问量：<span id="busuanzi_value_site_pv"></span>次
+    </span>
+    
+    <span id="busuanzi_container_site_uv">
+      您是本站第 <span id="busuanzi_value_site_uv"></span> 位访问者
+    </span>
+	</div>
+</footer>
+
+	<script async defer src="/js/menu.js"></script>
+	
+	
+	
+</body>
+</html>

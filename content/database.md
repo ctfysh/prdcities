@@ -2,7 +2,7 @@
 authorbox: false
 date: "2014-04-09"
 sidebar: false
-title: 综合数据资源中心简介
+title: 综合数据资源中心
 ---
 
 ## 社会-经济-生态-环境综合数据资源中心

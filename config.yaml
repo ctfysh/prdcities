@@ -10,9 +10,9 @@ Author:
   name: 南京大学研究团队
 Params:
   authorbox: yes
-  copyright: DGSP local group
+  copyright: 南京大学研究团队
   dateformat: 02.01.2006
-  description: Welcome to our scout group!
+  description: 欢迎访问！
   footer:
     right: Donate!
     text: '[Imprint and Privacy](/imprint)'
@@ -57,21 +57,45 @@ Params:
 menu:
   main:
     - identifier: start
-      name: 平台首页
+      name: 首页
       url: /
       weight: 1
-    - identifier: database
-      name: 综合数据资源中心
-      url: /database/
-      weight: 2
-    - identifier: methods
-      name: 动态一体化评价与监管系统
-      url: /methods/
-      weight: 3
     - identifier: about
       name: 课题简介
       url: /about/
+      weight: 2
+    - identifier: database
+      name: 数据库
+      url: /database/
+      weight: 3
+    - identifier: methods
+      name: 方法库
+      url: /methods/
       weight: 4
+    - identifier: complex
+      name: 复杂性分析
+      url: /complex/
+      weight: 5
+    - identifier: account
+      name: 基底核算
+      url: /account/
+      weight: 6
+    - identifier: diagnose
+      name: 健康诊断
+      url: /diagnose/
+      weight: 7
+    - identifier: optimize
+      name: 优化调控
+      url: /optimize/
+      weight: 8
+    - identifier: alert
+      name: 诊断预警
+      url: /alert/
+      weight: 9
+    - identifier: platform
+      name: 监管平台
+      url: /platform/
+      weight: 10
 markup:
   goldmark:
     renderer:
