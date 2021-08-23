@@ -8,5 +8,5 @@ toc: no
 
 针对深惠莞都市圈开发了风险调控规划模型，以处理研究区域内现有资源能源系统的不确定性，为系统的风险管理提供切实有效的方法途径。从碳排放、大气污染物排放、清洁能源发电结构和系统成本四个方面对风险管理结果进行分析，为深惠莞区域生态质量提升提供相关建议。
 
-<embed src="/post/optimize/2.3.7 深惠莞都市圈风险调控规划 .pdf" type="application/pdf" width="100%" height=750>
+<embed src="/post/optimize/2.3.7 深惠莞都市圈风险调控规划 .pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 

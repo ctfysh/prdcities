@@ -8,5 +8,5 @@ toc: no
 
 珠三角城市群生态安全评价体系由8类因素共54个指标组成的一个复合系统，综合评价历史2010-2020年的生态安全状况，并预测未来至2027年生态安全趋势，为地区生态安全管理决策提供科学支持。其中8类因素包括：人口社会、资源用量、生态用地、大气环境、水体环境、固体废物、经济和环境其他。
 
-<embed src="/post/alert/2.3.11珠三角城市群生态安全评估.pdf" type="application/pdf" width="100%" height=750>
+<embed src="/post/alert/2.3.11珠三角城市群生态安全评估.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
