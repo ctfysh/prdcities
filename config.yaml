@@ -6,8 +6,8 @@ paginate: '10'
 theme: hugo-dpsg
 Author:
   avatar: img/avatar.png
-  bio: 南京大学研究团队致力于高分辨率时空数据库与动态可视化平台构建。
-  name: 南京大学研究团队
+  bio: 课题组研究团队致力于珠三角城市群生态基底核算与健康诊断研究。
+  name: 课题组研究团队
 Params:
   authorbox: yes
   copyright: 南京大学研究团队
