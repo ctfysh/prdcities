@@ -10,3 +10,8 @@ toc: no
 
 <embed src="/post/diagnose/2.2.1能源代谢动态模拟诊断技术.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Zhai, M., Huang, G., Liu, L., & Su, S. (2018). Dynamic input-output analysis for energy metabolism system in the Province of Guangdong, China. Journal of Cleaner Production, 196, 747-762.
+- Zhai, M., Huang, G., Liu, L., & Zhang, X. (2019). Ecological network analysis of an energy metabolism system based on input-output tables: Model development and case study for Guangdong. Journal of Cleaner Production, 227, 434-446.
+

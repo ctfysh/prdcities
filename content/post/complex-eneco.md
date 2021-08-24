@@ -10,3 +10,7 @@ toc: no
 
 <embed src="/post/complex/1.2.3基于Copula分析的能源-生态联动关系复杂性的定量分析技术.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Cao, R., Huang, G. H., Chen, J. P., & Li, Y. P. (2021). A fractional multi-stage simulation-optimization energy model for carbon emission management of urban agglomeration. Science of The Total Environment, 774, 144963.
+

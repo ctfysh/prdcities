@@ -10,3 +10,7 @@ toc: no
 
 <embed src="/post/optimize/2.3.8广深莞经济圈风险调控规划.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Cao, R., Huang, G. H., Chen, J. P., Li, Y. P., & He, C. Y. (2021). A chance-constrained urban agglomeration energy model for cooperative carbon emission management. Energy, 223, 119885.
+

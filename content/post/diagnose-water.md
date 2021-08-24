@@ -10,3 +10,8 @@ toc: no
 
 <embed src="/post/diagnose/2.2.3基于生态代谢网络结构模型的水资源系统健康状况解析.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- He, C., Huang, G., Liu, L., Li, Y., Zhang, X., & Xu, X. (2020). Multi-dimensional diagnosis model for the sustainable development of regions facing water scarcity problem: A case study for Guangdong, China. Science of The Total Environment, 734, 139394.
+- He, C., Huang, G., Liu, L., Xu, X., & Li, Y. (2020). Evolution of virtual water metabolic network in developing regions: A case study of Guangdong province. Ecological Indicators, 108, 105750.
+

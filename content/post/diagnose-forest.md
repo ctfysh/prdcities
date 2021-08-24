@@ -10,3 +10,7 @@ toc: no
 
 <embed src="/post/diagnose/2.2.2基于网络分析的森林资源代谢系统健康诊断.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Zhang, X., Huang, G., Liu, L., Zhai, M., & Li, J. (2018). Ecological and economic analyses of the forest metabolism system: A case study of Guangdong Province, China. Ecological Indicators, 95, 131-140.
+

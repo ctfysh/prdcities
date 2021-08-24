@@ -10,3 +10,7 @@ toc: no
 
 <embed src="/post/diagnose/2.2.4考虑具体类别的食物网络代谢模拟技术开发.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Zhai, M., Huang, G., Liu, L., Zheng, B., & Guan, Y. (2019). Network analysis of different types of food flows: Establishing the interaction between food flows and economic flows. Resources, Conservation and Recycling, 143, 143-153.
+

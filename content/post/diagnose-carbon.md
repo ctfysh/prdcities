@@ -10,3 +10,8 @@ toc: no
 
 <embed src="/post/diagnose/2.2.8珠三角碳排放代谢系统健康诊断分析.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Li, J., Huang, G., & Liu, L. (2018). Ecological network analysis for urban metabolism and carbon emissions based on input-output tables: A case study of Guangdong province. Ecological Modelling, 383, 118-126.
+- Li, J., Huang, G., Liu, L., Li, Y., Zhai, M., & Xu, X. (2021). Projections of carbon metabolism in 2035 and implications for demand-side controls under various scenarios. Renewable and Sustainable Energy Reviews, 151, 111561.
+

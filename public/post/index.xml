@@ -40,7 +40,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/complex-hydro/</guid>
-      <description>水文系统作为复合生态系统的关键组成之一，呈现出异常复杂的多功能性、多目标性和动态性。解析珠三角地区生态水文系统的复杂互动关系，辨识系统在模拟过程中呈现出的异常复杂的不确定性，是研究珠三角复合生态系统的重要组成部分。因此，为定量揭示珠三角地区复合生态水文系统的多层复杂性，我们耦合再抽样和方差分析方法，开发了再抽样析因不确定性定量分析技术。将该技术用于珠三角生态水文系统的研究，以表征在模拟过程中出现的不确定性、追踪水文模型响应的不确定性来源，并量化每一个不确定性来源及其交互作用的影响。研究结果有利于揭示珠三角地区水文生态系统的复杂性、不确定性和动态性。</description>
+      <description>水文系统作为复合生态系统的关键组成之一，呈现出异常复杂的多功能性、多目标性和动态性。解析珠三角地区生态水文系统的复杂互动关系，辨识系统在模拟过程中呈现出的异常复杂的不确定性，是研究珠三角复合生态系统的重要组成部分。因此，为定量揭示珠三角地区复合生态水文系统的多层复杂性，我们耦合再抽样和方差分析方法，开发了再抽样析因不确定性定量分析技术。将该技术用于珠三角生态水文系统的研究，以表征在模拟过程中出现的不确定性、追踪水文模型响应的不确定性来源，并量化每一个不确定性来源及其交互作用的影响。研究结果有利于揭示珠三角地区水文生态系统的复杂性、不确定性和动态性。
+相关论文发表：
+ Wang, F., Huang, G. H., Fan, Y. R., and Li Y. P. 2020. Robust Subsampling ANOVA Methods for Sensitivity Analysis of Water Resource and Environmental Models. Water Resources Management 34 (10), 3199-3217.  </description>
     </item>
     
     <item>
@@ -49,7 +51,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/diagnose-water/</guid>
-      <description>本研究针对水量和水质问题，构建了虚拟水代谢网络，编制了多年蓝水和灰水清单。通过生态层级分析，量化不同产业构成的生态层级间的拉动和驱动效应；提出了虚拟水网络循环指数，量化各部门在网络中的受益程度；对物质平衡方程进行重构，改进传统的代谢系统构建方法，使之符合假设提取法基本假设，进而结合假设提取法，诊断各部门对系统性指标的影响力大小。最终，通过动态分析，揭示了虚拟水代谢网络的健康状况演化过程及问题所在。</description>
+      <description>本研究针对水量和水质问题，构建了虚拟水代谢网络，编制了多年蓝水和灰水清单。通过生态层级分析，量化不同产业构成的生态层级间的拉动和驱动效应；提出了虚拟水网络循环指数，量化各部门在网络中的受益程度；对物质平衡方程进行重构，改进传统的代谢系统构建方法，使之符合假设提取法基本假设，进而结合假设提取法，诊断各部门对系统性指标的影响力大小。最终，通过动态分析，揭示了虚拟水代谢网络的健康状况演化过程及问题所在。
+相关论文发表：
+ He, C., Huang, G., Liu, L., Li, Y., Zhang, X., &amp;amp; Xu, X. (2020). Multi-dimensional diagnosis model for the sustainable development of regions facing water scarcity problem: A case study for Guangdong, China. Science of The Total Environment, 734, 139394. He, C., Huang, G., Liu, L., Xu, X., &amp;amp; Li, Y. (2020). Evolution of virtual water metabolic network in developing regions: A case study of Guangdong province. Ecological Indicators, 108, 105750.</description>
     </item>
     
     <item>
@@ -58,7 +62,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/diagnose-forest/</guid>
-      <description>围绕森林代谢系统，建立了森林资源代谢系统健康诊断技术。通过对珠三角城市群森林资源利用状况的核算，定量分析各部门对森林资源的依赖程度，评估了产业结构风险；并针对森林资源在各个经济部门中的流动情况，从产业链的角度探究森林资源相关产业对森林资源生态系统的多种直接、间接影响，从而为优化森林资源配置，促进产业升级，提升系统效率提出相应的健康诊断报告及政策建议。</description>
+      <description>围绕森林代谢系统，建立了森林资源代谢系统健康诊断技术。通过对珠三角城市群森林资源利用状况的核算，定量分析各部门对森林资源的依赖程度，评估了产业结构风险；并针对森林资源在各个经济部门中的流动情况，从产业链的角度探究森林资源相关产业对森林资源生态系统的多种直接、间接影响，从而为优化森林资源配置，促进产业升级，提升系统效率提出相应的健康诊断报告及政策建议。
+相关论文发表：
+ Zhang, X., Huang, G., Liu, L., Zhai, M., &amp;amp; Li, J. (2018). Ecological and economic analyses of the forest metabolism system: A case study of Guangdong Province, China. Ecological Indicators, 95, 131-140.  </description>
     </item>
     
     <item>
@@ -67,7 +73,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/complex-clim/</guid>
-      <description>为揭示未来变化环境下的珠三角城市群生态风险时空变化特征，本研究开发了基于逐步聚类、相关分析和主成分分析等方法的珠三角地区气候要素复杂性定量分析技术，并以关键气候要素如干旱、热浪等为例，探究了历史时期和未来100年珠三角地区极端气候事件的事件变化特征和空间格局，并进一步解析了该地区气候变化的复杂不确定性，可为未来珠三角地区极端气候事件的识别、评估和风险预警及气候变化影响下产生的一系列生态问题提供科学基础和技术支持。</description>
+      <description>为揭示未来变化环境下的珠三角城市群生态风险时空变化特征，本研究开发了基于逐步聚类、相关分析和主成分分析等方法的珠三角地区气候要素复杂性定量分析技术，并以关键气候要素如干旱、热浪等为例，探究了历史时期和未来100年珠三角地区极端气候事件的事件变化特征和空间格局，并进一步解析了该地区气候变化的复杂不确定性，可为未来珠三角地区极端气候事件的识别、评估和风险预警及气候变化影响下产生的一系列生态问题提供科学基础和技术支持。
+相关论文发表：
+ Duan, R., Huang, G., Li, Y., Zhou, X., Ren, J., &amp;amp; Tian, C. (2021). Stepwise clustering future meteorological drought projection and multi-level factorial analysis under climate change: A case study of the Pearl River Basin, China. Environmental Research, 196, 110368. Ren, J. et al (2020). Stepwise-clustered heatwave downscaling and projection for Guangdong Province, International Journal of Climatology. Minor Revision.  </description>
     </item>
     
     <item>
@@ -94,7 +102,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/diagnose-air/</guid>
-      <description>本研究旨在开发析因诊断及政策模拟技术框架来帮助珠三角城市群应对复杂的大气污染问题。首先，在城市代谢理论下提出因子环境投入产出模型，以深度揭示系统结构特征和内在属性，识别关键枢纽部门及其内在联系。基于结果，进一步引入动态因子设计探索关键因子间的交互作用，并从社会需求和供应两个层面剖析社会经济因素对珠三角地区生态环境的潜在影响。最后，通过减排政策模拟探究其对珠三角城市减排路径以及系统整体代谢的优化作用，从而探求城市大气污染综合控制的有效途径，并衡量各减排政策的有效性。</description>
+      <description>本研究旨在开发析因诊断及政策模拟技术框架来帮助珠三角城市群应对复杂的大气污染问题。首先，在城市代谢理论下提出因子环境投入产出模型，以深度揭示系统结构特征和内在属性，识别关键枢纽部门及其内在联系。基于结果，进一步引入动态因子设计探索关键因子间的交互作用，并从社会需求和供应两个层面剖析社会经济因素对珠三角地区生态环境的潜在影响。最后，通过减排政策模拟探究其对珠三角城市减排路径以及系统整体代谢的优化作用，从而探求城市大气污染综合控制的有效途径，并衡量各减排政策的有效性。
+相关论文发表：
+ Xu, X., Huang, G., Liu, L., Guan, Y., Zhai, M., &amp;amp; Li, Y. (2020). Revealing dynamic impacts of socioeconomic factors on air pollution changes in Guangdong Province, China. Science of The Total Environment, 699, 134178. Xu, X., Huang, G., Liu, L., Guan, Y., Zhai, M., &amp;amp; Li, Y. (2020). Revealing dynamic impacts of socioeconomic factors on air pollution changes in Guangdong Province, China. Science of The Total Environment, 699, 134178.</description>
     </item>
     
     <item>
@@ -103,7 +113,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/optimize-gfz/</guid>
-      <description>通过将混合整数线性规划方法、区间规划方法、随机机会约束规划方法和分数规划整合到一个能源系统框架中，可以处理表现为区间数、概率分布的不确定性，提高结果的可信度。分式规划可以在保证实现最小化系统总成本的经济需求的同时，最大化环境收益。将其首次应用到广佛肇都市圈的不确定性资源-环境规划中，可以反映研究区域内现有环境系统的缺陷及未来可实现的资源配置的可能性，实现经济效益的同时最大化环境利益，并为系统中的不确定性的解决方式提供了一种新的方法。</description>
+      <description>通过将混合整数线性规划方法、区间规划方法、随机机会约束规划方法和分数规划整合到一个能源系统框架中，可以处理表现为区间数、概率分布的不确定性，提高结果的可信度。分式规划可以在保证实现最小化系统总成本的经济需求的同时，最大化环境收益。将其首次应用到广佛肇都市圈的不确定性资源-环境规划中，可以反映研究区域内现有环境系统的缺陷及未来可实现的资源配置的可能性，实现经济效益的同时最大化环境利益，并为系统中的不确定性的解决方式提供了一种新的方法。
+相关论文发表：
+ Liu, X., Huang, G., &amp;amp; Chen, J. (2020). The development of inexact dual-objective programming for regional energy systems planning in Guang-Fo-Zhao region, China. Journal of Cleaner Production, 265, 121351.  </description>
     </item>
     
     <item>
@@ -112,7 +124,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/optimize-gz/</guid>
-      <description>本研究开发了广义模糊机会约束规划方法，并用于广州市生态风险调控规划。将全模糊规划和机会约束规划整合到生态规划框架中，可以处理表示为概率分布、模糊集和模糊随机变量的不确定性。通过抽象资源-环境-生态系统，可以反映资源供应安全以及经济和环境问题的不确定性。结果可得不同约束违规风险下、不同α-cut水平下的资源供应空气污染物排放、森林面积以及系统成本的解决方案。</description>
+      <description>本研究开发了广义模糊机会约束规划方法，并用于广州市生态风险调控规划。将全模糊规划和机会约束规划整合到生态规划框架中，可以处理表示为概率分布、模糊集和模糊随机变量的不确定性。通过抽象资源-环境-生态系统，可以反映资源供应安全以及经济和环境问题的不确定性。结果可得不同约束违规风险下、不同α-cut水平下的资源供应空气污染物排放、森林面积以及系统成本的解决方案。
+相关论文发表：
+ Cai, M., Huang, G., Chen, J., Li, Y., &amp;amp; Fan, Y. (2018). A generalized fuzzy chance-constrained energy systems planning model for Guangzhou, China. Energy, 165, 191-204.  </description>
     </item>
     
     <item>
@@ -130,7 +144,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/optimize-gsg/</guid>
-      <description>针对广深莞多城市资源能源利用现状，开发了多区域碳联动水能耦合模型，考虑了区域尺度下的能-水耦合系统，开发相邻区域的碳排放合作模式，用于管理多区域合作下的区域能源系统优化配置。在不同的政策情景和系统风险下，该模型可以有效地促进区域CO2协同减排，为区域能源环境政策的制定和生态安全的管理提供科学依据，并为其他大城市群的发展规划提供借鉴意义。</description>
+      <description>针对广深莞多城市资源能源利用现状，开发了多区域碳联动水能耦合模型，考虑了区域尺度下的能-水耦合系统，开发相邻区域的碳排放合作模式，用于管理多区域合作下的区域能源系统优化配置。在不同的政策情景和系统风险下，该模型可以有效地促进区域CO2协同减排，为区域能源环境政策的制定和生态安全的管理提供科学依据，并为其他大城市群的发展规划提供借鉴意义。
+相关论文发表：
+ Cao, R., Huang, G. H., Chen, J. P., Li, Y. P., &amp;amp; He, C. Y. (2021). A chance-constrained urban agglomeration energy model for cooperative carbon emission management. Energy, 223, 119885.  </description>
     </item>
     
     <item>
@@ -139,7 +155,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/diagnose-ww/</guid>
-      <description>本研究耦合多项水污染指标，基于投入产出模型（IOA）、生态网络分析模型（ENA）以及结构分解分析（SDA）方法，开发了动态工业废水污染特征分析模型，对珠三角和广东省区域性废水排放总量、化学需氧量（COD）、氨氮（AN）以及重金属污染问题进行动态核算，从水污染角度对生态系统健康问题提出动态多判据分析体系，并对造成废水污染的特征排放源进行溯源，解析废水及其污染物排放的时空变化特性，并开发多层级生态要素模拟方法，从多角度揭示造成区域内、区域间废水污染的内在机理。为减轻工业废水污染，提升区域生态系统安全提供重要的政策支持。</description>
+      <description>本研究耦合多项水污染指标，基于投入产出模型（IOA）、生态网络分析模型（ENA）以及结构分解分析（SDA）方法，开发了动态工业废水污染特征分析模型，对珠三角和广东省区域性废水排放总量、化学需氧量（COD）、氨氮（AN）以及重金属污染问题进行动态核算，从水污染角度对生态系统健康问题提出动态多判据分析体系，并对造成废水污染的特征排放源进行溯源，解析废水及其污染物排放的时空变化特性，并开发多层级生态要素模拟方法，从多角度揭示造成区域内、区域间废水污染的内在机理。为减轻工业废水污染，提升区域生态系统安全提供重要的政策支持。
+相关论文发表：
+ Zheng, B., Huang, G., Liu, L., Zhai, M., &amp;amp; Guan, Y. (2019). Metabolism of urban wastewater: ecological network analysis for Guangdong Province, China. Journal of Cleaner Production, 217, 510-519. Zheng, B., Huang, G., Liu, L., Guan, Y., &amp;amp; Zhai, M. (2020). Dynamic wastewater-induced research based on input-output analysis for Guangdong Province, China. Environmental Pollution, 256, 113502. Zheng, B., Huang, G., Liu, L., Zhai, M., &amp;amp; Li, Y. (2020).</description>
     </item>
     
     <item>
@@ -231,7 +249,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/optimize-cgs/</guid>
-      <description>本研究以城市群资源环境生态系统为研究对象，展开系统分析，开发珠三角城市群资源生态系统管理模型，揭示区域水资源量对其他资源用量的影响，量化森林碳汇在减排中的作用，为建立生态安全管理提供政策方案。同时针对区域资源生态系统中的复杂性和相关风险，引入区间多阶段随机规划方法，反映系统的动态变化特征，并采用SVR技术预测资源需求，通过STIRPAT预测的二氧化碳排放。该模型框架可为不同情景下的碳排放模拟提供解决方案，为清洁能源系统规划和碳排放管理提供决策支持。</description>
+      <description>本研究以城市群资源环境生态系统为研究对象，展开系统分析，开发珠三角城市群资源生态系统管理模型，揭示区域水资源量对其他资源用量的影响，量化森林碳汇在减排中的作用，为建立生态安全管理提供政策方案。同时针对区域资源生态系统中的复杂性和相关风险，引入区间多阶段随机规划方法，反映系统的动态变化特征，并采用SVR技术预测资源需求，通过STIRPAT预测的二氧化碳排放。该模型框架可为不同情景下的碳排放模拟提供解决方案，为清洁能源系统规划和碳排放管理提供决策支持。
+相关论文发表：
+ Cao, R., Huang, G. H., Chen, J. P., &amp;amp; Li, Y. P. (2021). A fractional multi-stage simulation-optimization energy model for carbon emission management of urban agglomeration. Science of The Total Environment, 774, 144963.  </description>
     </item>
     
     <item>
@@ -258,7 +278,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/diagnose-carbon/</guid>
-      <description>本研究开发了基于投入产出模型的碳排放代谢系统健康诊断模型，通过模拟珠三角2035年投入产出表，研究各生产部门间的相互关系，评估系统效率和稳定性，识别碳排放关键部门，建立相关的模拟情景，实现对珠三角2035年动态碳排放的特征情景分析，并针对碳排放峰值年（2012年）进行进一步深入分析。最终通过探讨产业结构调整，实现总体碳减排及单位GDP碳减排。提出调整优化珠三角城市产业结构比例与加速发展现代服务业的政策建议，构建珠三角城市群产业结构调整优化的战略目标，以此实现珠三角城市群产业结构低碳化，最终保持生态健康稳定。</description>
+      <description>本研究开发了基于投入产出模型的碳排放代谢系统健康诊断模型，通过模拟珠三角2035年投入产出表，研究各生产部门间的相互关系，评估系统效率和稳定性，识别碳排放关键部门，建立相关的模拟情景，实现对珠三角2035年动态碳排放的特征情景分析，并针对碳排放峰值年（2012年）进行进一步深入分析。最终通过探讨产业结构调整，实现总体碳减排及单位GDP碳减排。提出调整优化珠三角城市产业结构比例与加速发展现代服务业的政策建议，构建珠三角城市群产业结构调整优化的战略目标，以此实现珠三角城市群产业结构低碳化，最终保持生态健康稳定。
+相关论文发表：
+ Li, J., Huang, G., &amp;amp; Liu, L. (2018). Ecological network analysis for urban metabolism and carbon emissions based on input-output tables: A case study of Guangdong province. Ecological Modelling, 383, 118-126. Li, J., Huang, G., Liu, L., Li, Y., Zhai, M., &amp;amp; Xu, X. (2021). Projections of carbon metabolism in 2035 and implications for demand-side controls under various scenarios. Renewable and Sustainable Energy Reviews, 151, 111561.  </description>
     </item>
     
     <item>
@@ -267,7 +289,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/complex-eneco/</guid>
-      <description>本研究以珠三角各城市间的能源-生态联动关系和不确定的生态系统参数作为切入点，引入不确定性Copula随机分析技术，以期从能源-生态联动角度为珠三角城市群复合生态系统复杂性的定量分析提供技术支持。具体来讲，一方面，能源资源和环境产物分别是珠三角生态系统输入与输出行为的重要表征，充足的能源供应是构建珠三角生态系统的重要安全保障，而能源加工与转换带来的一系列环境问题又会制约珠三角生态系统的可持续发展，这种相互矛盾的发展关系增加了珠三角生态系统的复杂性。另一方面，珠三角城市群多目标的协同发展和内部的多层次互动关系，以及生态系统参数的不确定性也增加了多层式城市群复合生态系统的复杂性。因此，本研究把珠三角城市群划分为同一层级上的三个经济圈，将Copula函数引入两阶段联合概率分析模型，以解决约束中随机变量间的非线性互动性，进而揭示了珠三角城市间能源-生态联动关系的复杂性，为珠三角城市群能源-生态联动关系的可持续发展提供了科学支持。</description>
+      <description>本研究以珠三角各城市间的能源-生态联动关系和不确定的生态系统参数作为切入点，引入不确定性Copula随机分析技术，以期从能源-生态联动角度为珠三角城市群复合生态系统复杂性的定量分析提供技术支持。具体来讲，一方面，能源资源和环境产物分别是珠三角生态系统输入与输出行为的重要表征，充足的能源供应是构建珠三角生态系统的重要安全保障，而能源加工与转换带来的一系列环境问题又会制约珠三角生态系统的可持续发展，这种相互矛盾的发展关系增加了珠三角生态系统的复杂性。另一方面，珠三角城市群多目标的协同发展和内部的多层次互动关系，以及生态系统参数的不确定性也增加了多层式城市群复合生态系统的复杂性。因此，本研究把珠三角城市群划分为同一层级上的三个经济圈，将Copula函数引入两阶段联合概率分析模型，以解决约束中随机变量间的非线性互动性，进而揭示了珠三角城市间能源-生态联动关系的复杂性，为珠三角城市群能源-生态联动关系的可持续发展提供了科学支持。
+相关论文发表：
+ Cao, R., Huang, G. H., Chen, J. P., &amp;amp; Li, Y. P. (2021). A fractional multi-stage simulation-optimization energy model for carbon emission management of urban agglomeration. Science of The Total Environment, 774, 144963.  </description>
     </item>
     
     <item>
@@ -294,7 +318,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/diagnose-food/</guid>
-      <description>民以食为天，食物是人类生存的物质基础和战略物资，是国家发展的基础；粮食安全更是人民生活的最基本保障，也是维护国家安全的重要基石。随着社会经济的快速发展和人口密度的不断增加，食品安全问题越来越严重，因此城市食物代谢的研究是可持续发展议题的重要组成部分。本技术试图从素以“渔米之乡”著称的珠江三角洲地区粮食生产的变迁出发，分析珠三角的粮食生产情况，并对稳定和发展珠三角和广东地区的粮食生产提出建议和对策。本技术考虑了不同食物类型，包括粮食作物，糖蔗，烟草，粮油作物，果蔬，肉类，禽蛋，乳制品和水产品九类食品，定量分析了不同类型食物的拉动效应和驱动效应，探究了直接和间接食物流动的不同表现，揭示了城市新陈代谢系统中各部门之间的相互关系。此外，还引入了流量价值强度指标以建立物理流动和经济流动的联系。通过该技术的开发，期望能为食物代谢安全的改革提供科学依据，以改善城市食物消费结构和利用效率。</description>
+      <description>民以食为天，食物是人类生存的物质基础和战略物资，是国家发展的基础；粮食安全更是人民生活的最基本保障，也是维护国家安全的重要基石。随着社会经济的快速发展和人口密度的不断增加，食品安全问题越来越严重，因此城市食物代谢的研究是可持续发展议题的重要组成部分。本技术试图从素以“渔米之乡”著称的珠江三角洲地区粮食生产的变迁出发，分析珠三角的粮食生产情况，并对稳定和发展珠三角和广东地区的粮食生产提出建议和对策。本技术考虑了不同食物类型，包括粮食作物，糖蔗，烟草，粮油作物，果蔬，肉类，禽蛋，乳制品和水产品九类食品，定量分析了不同类型食物的拉动效应和驱动效应，探究了直接和间接食物流动的不同表现，揭示了城市新陈代谢系统中各部门之间的相互关系。此外，还引入了流量价值强度指标以建立物理流动和经济流动的联系。通过该技术的开发，期望能为食物代谢安全的改革提供科学依据，以改善城市食物消费结构和利用效率。
+相关论文发表：
+ Zhai, M., Huang, G., Liu, L., Zheng, B., &amp;amp; Guan, Y. (2019). Network analysis of different types of food flows: Establishing the interaction between food flows and economic flows. Resources, Conservation and Recycling, 143, 143-153.  </description>
     </item>
     
     <item>
@@ -303,7 +329,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/diagnose-sw/</guid>
-      <description>本研究针对珠三角地区工业固废排放问题，开发了聚合层面与分散层面的工业固废动态代谢诊断技术，详细剖析珠三角的工业固废代谢动态特征，以探寻造成不同类型固废产生的社会经济因素，为未来的固废减排政策的制定提供科学依据。具体来说，从聚合部门的层面对可能会影响珠三角工业固废排放量的潜在社会经济因子进行解构分析，以识别主要的影响因子。从分散部门的层面，根据珠三角的社会经济系统基本特征，建立珠三角的工业固废代谢系统，对其动态代谢特征做出深入的分析。本研究考虑了2002、2005、2007、2010、2013、2015年的珠三角固废排放情况进行深度诊断，以实现工业固废的源头大幅减量、充分资源化利用和合理处置。</description>
+      <description>本研究针对珠三角地区工业固废排放问题，开发了聚合层面与分散层面的工业固废动态代谢诊断技术，详细剖析珠三角的工业固废代谢动态特征，以探寻造成不同类型固废产生的社会经济因素，为未来的固废减排政策的制定提供科学依据。具体来说，从聚合部门的层面对可能会影响珠三角工业固废排放量的潜在社会经济因子进行解构分析，以识别主要的影响因子。从分散部门的层面，根据珠三角的社会经济系统基本特征，建立珠三角的工业固废代谢系统，对其动态代谢特征做出深入的分析。本研究考虑了2002、2005、2007、2010、2013、2015年的珠三角固废排放情况进行深度诊断，以实现工业固废的源头大幅减量、充分资源化利用和合理处置。
+相关论文发表：
+ Guan, Y., Huang, G., Liu, L., Zhai, M., &amp;amp; Zheng, B. (2019). Dynamic analysis of industrial solid waste metabolism at aggregated and disaggregated levels. Journal of Cleaner Production, 221, 817-827. Guan, Y., Huang, G., Liu, L., Huang, C., &amp;amp; Zhai, M. (2019). Ecological network analysis for an industrial solid waste metabolism system. Environmental Pollution, 244, 279-287.  </description>
     </item>
     
     <item>
@@ -312,7 +340,9 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/diagnose-energy/</guid>
-      <description>城市化进程的加速发展导致城市出现能源短缺和代谢结构不合理的现象，因此城市能源系统的研究是可持续发展议题的重要组成部分，也是城市生态系统健康诊断的关键部分。“十四五”规划不仅提出了总能耗（即50亿吨标准煤）的要求，而且还要求改善清洁能源供应并建立清洁高效的现代能源系统。调整能源结构，改变能源发展方式，是保证能源供应安全和生态安全的必由之路。因此，有必要优化能源组成，以支持 “十四五”规划目标，进而在能源利用方面提供更有针对性的建议。探索不同类别能源的代谢状况有助于为区域可持续发展选择更合适的能源。此外，一次能源的不可再生性使得寻找相应的替代能源十分必要。珠三角作为中国经济最发达的地区之一，这种情况更加明显。因此，该技术围绕珠三角的能源代谢系统，探寻不同能源类型的使用对城市群能源代谢系统的动态影响，为城市群生态系统的健康诊断提供能源要素层次的详细分析。</description>
+      <description>城市化进程的加速发展导致城市出现能源短缺和代谢结构不合理的现象，因此城市能源系统的研究是可持续发展议题的重要组成部分，也是城市生态系统健康诊断的关键部分。“十四五”规划不仅提出了总能耗（即50亿吨标准煤）的要求，而且还要求改善清洁能源供应并建立清洁高效的现代能源系统。调整能源结构，改变能源发展方式，是保证能源供应安全和生态安全的必由之路。因此，有必要优化能源组成，以支持 “十四五”规划目标，进而在能源利用方面提供更有针对性的建议。探索不同类别能源的代谢状况有助于为区域可持续发展选择更合适的能源。此外，一次能源的不可再生性使得寻找相应的替代能源十分必要。珠三角作为中国经济最发达的地区之一，这种情况更加明显。因此，该技术围绕珠三角的能源代谢系统，探寻不同能源类型的使用对城市群能源代谢系统的动态影响，为城市群生态系统的健康诊断提供能源要素层次的详细分析。
+相关论文发表：
+ Zhai, M., Huang, G., Liu, L., &amp;amp; Su, S. (2018). Dynamic input-output analysis for energy metabolism system in the Province of Guangdong, China. Journal of Cleaner Production, 196, 747-762. Zhai, M., Huang, G., Liu, L., &amp;amp; Zhang, X. (2019). Ecological network analysis of an energy metabolism system based on input-output tables: Model development and case study for Guangdong. Journal of Cleaner Production, 227, 434-446.  </description>
     </item>
     
     <item>

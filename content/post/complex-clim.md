@@ -10,3 +10,8 @@ toc: no
 
 <embed src="/post/complex/1.2.1基于逐步聚类的珠三角地区气候要素复杂性定量分析技术开发.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Duan, R., Huang, G., Li, Y., Zhou, X., Ren, J., & Tian, C. (2021). Stepwise clustering future meteorological drought projection and multi-level factorial analysis under climate change: A case study of the Pearl River Basin, China. Environmental Research, 196, 110368. 
+- Ren, J. et al (2020). Stepwise-clustered heatwave downscaling and projection for Guangdong Province, International Journal of Climatology. Minor Revision. 
+

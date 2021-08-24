@@ -10,3 +10,8 @@ toc: no
 
 <embed src="/post/diagnose/2.2.6聚合层面与分散层面的工业固废动态代谢特征分析.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Guan, Y., Huang, G., Liu, L., Zhai, M., & Zheng, B. (2019). Dynamic analysis of industrial solid waste metabolism at aggregated and disaggregated levels. Journal of Cleaner Production, 221, 817-827.
+- Guan, Y., Huang, G., Liu, L., Huang, C., & Zhai, M. (2019). Ecological network analysis for an industrial solid waste metabolism system. Environmental Pollution, 244, 279-287.
+

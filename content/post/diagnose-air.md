@@ -10,3 +10,8 @@ toc: no
 
 <embed src="/post/diagnose/2.2.7大气污染代谢系统的析因分析及减排政策模拟.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Xu, X., Huang, G., Liu, L., Guan, Y., Zhai, M., & Li, Y. (2020). Revealing dynamic impacts of socioeconomic factors on air pollution changes in Guangdong Province, China. Science of The Total Environment, 699, 134178.
+- Xu, X., Huang, G., Liu, L., Guan, Y., Zhai, M., & Li, Y. (2020). Revealing dynamic impacts of socioeconomic factors on air pollution changes in Guangdong Province, China. Science of The Total Environment, 699, 134178.
+

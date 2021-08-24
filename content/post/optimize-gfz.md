@@ -10,3 +10,7 @@ toc: no
 
 <embed src="/post/optimize/2.3.6广佛肇经济圈风险调控规划.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Liu, X., Huang, G., & Chen, J. (2020). The development of inexact dual-objective programming for regional energy systems planning in Guang-Fo-Zhao region, China. Journal of Cleaner Production, 265, 121351.
+

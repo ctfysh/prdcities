@@ -10,3 +10,7 @@ toc: no
 
 <embed src="/post/optimize/2.3.2广州市广义模糊随机生态风险调控规划.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Cai, M., Huang, G., Chen, J., Li, Y., & Fan, Y. (2018). A generalized fuzzy chance-constrained energy systems planning model for Guangzhou, China. Energy, 165, 191-204.
+

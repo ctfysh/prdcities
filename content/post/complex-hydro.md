@@ -10,3 +10,7 @@ toc: no
 
 <embed src="/post/complex/1.2.2基于再抽样和析因分析的生态水文系统不确定性分析技术研究.pdf#toolbar=0" type="application/pdf" width="100%" height=750>
 
+**相关论文发表**：
+
+- Wang, F., Huang, G. H., Fan, Y. R., and Li Y. P. 2020. Robust Subsampling ANOVA Methods for Sensitivity Analysis of Water Resource and Environmental Models. Water Resources Management 34 (10), 3199-3217.
+
